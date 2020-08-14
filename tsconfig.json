@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "js",
+        "noEmitOnError": true, 
+        "noImplicitAny": true,
+        "removeComments": true,
+		"declaration": true,
+        "module": "commonjs",
+        "strictNullChecks": true,
+		"inlineSourceMap": true,
+		"experimentalDecorators": true,
+        "types": [
+            "node"
+        ],
+        "typeRoots": [
+            "node_modules/@types" 
+        ] 
+    },
+    "include": [
+        "ts/",
+    ],
+    "exclude": [
+    ]
+}

@@ -1,0 +1,9 @@
+node_modules
+js
+*.log
+coverage
+.nyc_output
+log
+extra-content
+*.env
+.tool-versions

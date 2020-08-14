@@ -1,0 +1,11 @@
+*.log
+coverage
+.nyc_output
+log
+.vscode
+extra-content
+*.env
+ts/test
+ts/EntryPoint.spec.ts
+tsconfig.test.json
+tslint.json
